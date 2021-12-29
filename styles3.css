@@ -1,0 +1,39 @@
+.main-font {
+	font-family: courier;
+}
+.intro {
+	color: red;
+	margin: 15px;
+}
+#game-photos {
+	display: block;
+}
+.links {
+	font-size: 12px;
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+}
+.img {
+	width: 800px;
+	height: 300px;
+}
+.input-text {
+	size: 1;
+}
+.border {
+	border-style: dashed;
+	border: 5;
+	border-radius: 5;
+	border-width: 5;
+	border-color: black;
+}
+h1	{
+		font-size: 30px;
+		padding: 10px;
+		display: block;
+	}
+p {
+	font-size: 14px;
+	padding: 10px;
+}
